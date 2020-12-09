@@ -1,0 +1,49 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic&display=swap');
+</style>
+<link rel="stylesheet" href="css|-101/style.css">
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: #333;}
+
+section {
+  width: 80%;
+  max-width: 800px;
+  margin: auto;}
+
+h1,h2,h3{
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+h1 {font-size: 4.5em; margin-bottom: 0.3em;}
+h2 {font-size: 3.2em; margin: 1em 0; color: #439ff6}
+h3 {font-size: 2.1em; margin: 3em 0 1em 0}
+
+p {font-size: 1.25em;
+  line-height: 1.5;
+  margin-bottom: 1em;
+  font-weight: 200;}
+
+header {
+  width: 80%;
+  font-family: 'Nanum Gothic', sans-serif;
+  max-width: 900px;
+  margin: auto;
+  color: #fafafa;
+}
+
+header h1 {
+  margin: 1em 0;
+  font-size: 5.25em;
+  font-weight: bold;
+  line-height: 1.2;
+  }
+header h2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 2.75em;
+  line-height: 1.5;
+  padding-bottom: 1em;
+}
